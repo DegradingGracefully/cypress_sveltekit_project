@@ -1,3 +1,5 @@
+Short reproduction of issue "Component tests are not started with message "Your tests are loading..." #26064" @ https://github.com/cypress-io/cypress/issues/26064
+
 # create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
